@@ -1,3 +1,3 @@
-export class testSetup {
+export class OrderedJobs {
     static isWorking = true;
 }
