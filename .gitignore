@@ -1,0 +1,8 @@
+node_modules/*
+typings/*
+.idea/*
+spec/*.js
+spec/*.map
+src/*.js
+src/*.map
+coverage/*
